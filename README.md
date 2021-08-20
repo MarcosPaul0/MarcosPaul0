@@ -1,4 +1,15 @@
 <div>
+  <p>
+    Hello my name is Marcos Paulo I am Brazilian and I am 20 years old. I am a student of Information Systems at the Federal University of Itajubá.
+    When I was 18 I got to know the universe of programming and I fell in love with this area, mainly for web development.
+    I am aspiring to fullstack but with an initial focus on frontend, eager to enter the job market! 👨‍💻
+  </p>
+  <p>
+    A curiosity about me is that I love playing video games. My favorite game? Bioshock Infinite. 🎮
+  </p>
+</div>
+<hr>
+<div>
   <a href="https://github.com/MarcosPaul0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosPaul0&show_icons=true&theme=dracula&title_color=blue&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPaul0&layout=compact&langs_count=7&theme=dracula&title_color=blue"/>
