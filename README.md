@@ -5,7 +5,7 @@
     I am aspiring to fullstack but with an initial focus on frontend, eager to enter the job market! 👨‍💻
   </p>
   <p>
-    A curiosity about me is that I love playing video games. My favorite game? Bioshock Infinite. 🎮
+    A curiosity about me is that I love playing video games. My favorite game? Outher Wilds. 🎮
   </p>
 </div>
 <hr>
