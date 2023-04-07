@@ -1,8 +1,8 @@
 <div>
   <p>
-    Hi my name is Marcos Paulo I'm Brazilian and I'm 21 years old. I am a student of Information Systems at the Federal University of Itajubá.
+    Hi my name is Marcos Paulo I'm Brazilian and I'm 22 years old. I am a student of Information Systems at the Federal University of Itajubá.
     When I was 18 I got to know the universe of programming and I fell in love with this area, mainly for web development.
-    I am aspiring to fullstack but with an initial focus on frontend, eager to enter the job market! 👨‍💻
+    I am a fullstack developer and have been working professionally for more than 1 year! 👨‍💻
   </p>
   <p>
     A curiosity about me is that I love playing video games. My favorite game? Outher Wilds. 🎮
