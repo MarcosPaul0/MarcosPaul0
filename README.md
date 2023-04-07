@@ -5,7 +5,7 @@
     I am a fullstack developer and have been working professionally for more than 1 year! 👨‍💻
   </p>
   <p>
-    A curiosity about me is that I love playing video games. My favorite game? Outher Wilds. 🎮
+    A curiosity about me is that I love playing video games. My favorite game? Outher Wilds. 🎮🪐👩‍🚀
   </p>
 </div>
 <hr>
