@@ -3,7 +3,7 @@
     Hi, my name is Marcos Paulo!
   </p>
   <p>
-    I'm a 23-year-old Brazilian currently pursuing a degree in Information Systems at the Federal University of Itajubá.
+    I'm a 24-year-old Brazilian currently pursuing a degree in Information Systems at the Federal University of Itajubá.
   </p>
   <p>
     I discovered programming at 18 and immediately fell in love with it, especially web development. Since then, I've been honing my skills and exploring the endless possibilities this field offers.
