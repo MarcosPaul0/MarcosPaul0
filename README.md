@@ -3,13 +3,10 @@
     Hi, my name is Marcos Paulo!
   </p>
   <p>
-    I'm a 24-year-old Brazilian currently pursuing a degree in Information Systems at the Federal University of Itajubá.
+    Graduated in Information Systems from the Federal University of Itajubá (UNIFEI), passionate about developing technological solutions that create value for people and organizations.
   </p>
   <p>
-    I discovered programming at 18 and immediately fell in love with it, especially web development. Since then, I've been honing my skills and exploring the endless possibilities this field offers.
-  </p>
-  <p>
-    Today, I work as a fullstack developer with over two years of professional experience. I'm passionate about creating impactful and efficient digital solutions. 👨‍💻
+    Today, I work as a fullstack developer with over three years of professional experience. 👨‍💻
   </p>
   <p>
     A curiosity about me is that I love playing video games. My favorite game? Outher Wilds. 🎮🪐👩‍🚀
