@@ -8,9 +8,6 @@
   <p>
     Today, I work as a full stack developer with over four years of professional experience. 👨‍💻
   </p>
-  <p>
-    A curiosity about me is that I love playing video games. My favorite game? Outher Wilds. 🎮🪐👩‍🚀
-  </p>
 </div>
 <hr>
 <div>
