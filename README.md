@@ -3,7 +3,7 @@
     Hi, my name is Marcos Paulo!
   </p>
   <p>
-    Graduated in Information Systems from the Federal University of Itajubá (UNIFEI), passionate about developing technological solutions that create value for people and organizations.
+    Graduated in Information Systems from the federal university of Itajubá (UNIFEI), passionate about developing technological solutions that create value for people and organizations.
   </p>
   <p>
     Today, I work as a full stack developer with over four years of professional experience. 👨‍💻
